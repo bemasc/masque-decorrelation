@@ -9,14 +9,14 @@ number:
 date:
 consensus: true
 v: 3
-area: TSV
-workgroup: MASQUE
+# area: TSV
+# workgroup: MASQUE
 keyword:
 venue:
-  group: MASQUE
-  type: Working Group
-  mail: masque@ietf.org
-  github: bemasc/masque-decorrelation
+#  group: MASQUE
+#  type: Working Group
+#  mail: masque@ietf.org
+  github: "bemasc/masque-decorrelation"
 
 author:
  -
